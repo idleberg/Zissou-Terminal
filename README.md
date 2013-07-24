@@ -8,11 +8,11 @@ Download a `.terminal` file of choice and double-click it. For repeated use, you
 
 ## License
 
-This work by Jan T. Sott is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License][3].
+This work by Jan T. Sott is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License][2].
 
 ## Donate
 
-[<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][4]
+[<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][3]
 
 [1]: http://www.imdb.com/title/tt0362270/0
 [2]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
