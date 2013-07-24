@@ -2,7 +2,7 @@
 
 Two color schemes inspired by Wes Anderson's movie [The Life Aquatic with Steve Zissou][1].
 
-![Animated Screenshot][2]
+![Screenshot][2]
 
 ## Installation
 
